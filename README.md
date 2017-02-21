@@ -1,0 +1,1 @@
+# verena-travis-coveralls-example
